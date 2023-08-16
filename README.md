@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Egemen</h1>
-<h3 align="center">I aspire to become a computer engineer and pursue a career as a full stack developer. I primarily work with a backend focus, but I also possess knowledge of frontend development. I have also engaged in deep learning studies using Python; however, the area in which I aim to specialize is full stack development.</h3>
+<h3 align="center">I aspire to become a computer engineer and pursue a career as a full-stack developer. While I primarily work with a backend focus, I also possess knowledge of frontend development. Additionally, I have engaged in deep learning studies using Python; however, my area of specialization is full-stack development.</h3>
 
 - 🔭 I’m currently working on [EShopperAPI](https://github.com/EgemenTosyali/EShopperAPI)
 
