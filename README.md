@@ -5,7 +5,7 @@
 
 - 🔭 I'm also working on [EShopperClient-Angular](https://github.com/EgemenTosyali/EShopperClient-Angular)
 
-- 💬 Ask me about **C#, REST API, .Net Core, Angular, JavaScript, TypeScript, Entity Framework, Docker, Nginx**
+- 💬 Ask me about **C#, REST API, .Net Core, Angular, JavaScript, TypeScript, Entity Framework, Docker**
 
 - 📫 How to reach me **egementosyalitr@gmail.com**
 <p align="left">
